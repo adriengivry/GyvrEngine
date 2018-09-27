@@ -19,3 +19,6 @@ The GyvrEngine is a personal game engine project. My goals for this project are:
 
 ## Target platforms and configurations
 For this project I will only target Windows (32 bits and 64 bits)
+
+## Current architecture (Work In Progress)
+![GyvrEngine Class Diagram](Documentation/GyvrEngineClassDiagram.jpg)
