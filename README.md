@@ -21,4 +21,28 @@ The GyvrEngine is a personal game engine project. My goals for this project are:
 For this project I will only target Windows (32 bits and 64 bits)
 
 ## Current architecture (Work In Progress)
-![GyvrEngine Class Diagram](Documentation/GyvrEngineClassDiagram.jpg)
+
+### GyvrEngine - Package Diagram
+![GyvrEngine Package Diagram](Documentation/Package%20Diagrams/Engine.jpg)
+
+### GyvrAPI - Class Diagram
+![GyvrAPI Class Diagram](Documentation/Class%20Diagrams/API.jpg)
+
+### GyvrCore - Class Diagram
+![GyvrCore Class Diagram](Documentation/Class%20Diagrams/Core.jpg)
+
+### GyvrRendering - Class Diagram
+![GyvrRendering Class Diagram](Documentation/Class%20Diagrams/Rendering.jpg)
+
+### GyvrPhysics - Class Diagram
+![GyvrPhysics Class Diagram](Documentation/Class%20Diagrams/Physics.jpg)
+
+### GyvrAudio - Class Diagram
+![GyvrAudio Class Diagram](Documentation/Class%20Diagrams/Audio.jpg)
+
+### GyvrTools - Class Diagram
+![GyvrTools Class Diagram](Documentation/Class%20Diagrams/Tools.jpg)
+
+### GyvrMaths - Class Diagram
+![GyvrMaths Class Diagram](Documentation/Class%20Diagrams/Maths.jpg)
+
