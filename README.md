@@ -25,6 +25,9 @@ For this project I will only target Windows (32 bits and 64 bits)
 ### GyvrEngine - Package Diagram
 ![GyvrEngine Package Diagram](Documentation/svg/Package%20Diagrams!GyvrEngine%20Package%20Diagram_7.svg)
 
+### GyvrEngine - FlowChart Diagram
+![GyvrEngine FlowChart Diagram](Documentation/svg/FlowChart%20Diagrams!GyvrEngine%20FlowChart%20Diagram_8.svg)
+
 ### GyvrAPI - Class Diagram
 ![GyvrAPI Class Diagram](Documentation/svg/Class%20Diagrams!GyvrAPI%20Class%20Diagram_6.svg)
 
