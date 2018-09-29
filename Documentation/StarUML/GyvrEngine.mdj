@@ -18052,7 +18052,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFmHIS/PlVpomY="
 					},
-					"name": "GyvrPhysics Class DIagram",
+					"name": "GyvrPhysics Class Diagram",
 					"ownedViews": [
 						{
 							"_type": "UMLClassView",
