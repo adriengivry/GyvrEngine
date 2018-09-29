@@ -42061,7 +42061,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFmJhSnKCADkzw="
 					},
-					"name": "GyvrEngine FlowChart",
+					"name": "GyvrEngine FlowChart Diagram",
 					"ownedViews": [
 						{
 							"_type": "FCDecisionView",
