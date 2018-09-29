@@ -23,26 +23,26 @@ For this project I will only target Windows (32 bits and 64 bits)
 ## Current architecture (Work In Progress)
 
 ### GyvrEngine - Package Diagram
-![GyvrEngine Package Diagram](Documentation/Package%20Diagrams/Engine.jpg)
+![GyvrEngine Package Diagram](Documentation/svg/Package%20Diagrams!GyvrEngine%20Package%20Diagram_7.jpg)
 
 ### GyvrAPI - Class Diagram
-![GyvrAPI Class Diagram](Documentation/Class%20Diagrams/API.jpg)
+![GyvrAPI Class Diagram](Documentation/svg/Class%20Diagrams!GyvrAPI%20Class%20Diagram_6.svg)
 
 ### GyvrCore - Class Diagram
-![GyvrCore Class Diagram](Documentation/Class%20Diagrams/Core.jpg)
+![GyvrCore Class Diagram](Documentation/svg/Class%20Diagrams!GyvrCore%20Class%20Diagram_6.svg)
 
 ### GyvrRendering - Class Diagram
-![GyvrRendering Class Diagram](Documentation/Class%20Diagrams/Rendering.jpg)
+![GyvrRendering Class Diagram](Documentation/svg/Class%20Diagrams!GyvrRendering%20Class%20Diagram_6.svg)
 
 ### GyvrPhysics - Class Diagram
-![GyvrPhysics Class Diagram](Documentation/Class%20Diagrams/Physics.jpg)
+![GyvrPhysics Class Diagram](Documentation/svg/Class%20Diagrams!GyvrPhysics%20Class%20Diagram_6.svg)
 
 ### GyvrAudio - Class Diagram
-![GyvrAudio Class Diagram](Documentation/Class%20Diagrams/Audio.jpg)
+![GyvrAudio Class Diagram](Documentation/svg/Class%20Diagrams!GyvrAudio%20Class%20Diagram_6.svg)
 
 ### GyvrTools - Class Diagram
-![GyvrTools Class Diagram](Documentation/Class%20Diagrams/Tools.jpg)
+![GyvrTools Class Diagram](Documentation/svg/Class%20Diagrams!GyvrTools%20Class%20Diagram_6.svg)
 
 ### GyvrMaths - Class Diagram
-![GyvrMaths Class Diagram](Documentation/Class%20Diagrams/Maths.jpg)
+![GyvrMaths Class Diagram](Documentation/svg/Class%20Diagrams!GyvrMaths%20Class%20Diagram_6.svg)
 
