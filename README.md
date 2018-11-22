@@ -1,4 +1,4 @@
-# GyvrEngine Project
+# GyvrEngine
 
 ## What is this project about ?
 The GyvrEngine is a personal game engine project. My goals for this project are:
